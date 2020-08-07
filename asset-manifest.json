@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dloft1991/GP-GamePoint.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Dloft1991/GP-GamePoint.git/static/js/main.d7888df9.chunk.js",
+    "main.js.map": "/Dloft1991/GP-GamePoint.git/static/js/main.d7888df9.chunk.js.map",
+    "runtime-main.js": "/Dloft1991/GP-GamePoint.git/static/js/runtime-main.4b172358.js",
+    "runtime-main.js.map": "/Dloft1991/GP-GamePoint.git/static/js/runtime-main.4b172358.js.map",
+    "static/js/2.d5d24eaa.chunk.js": "/Dloft1991/GP-GamePoint.git/static/js/2.d5d24eaa.chunk.js",
+    "static/js/2.d5d24eaa.chunk.js.map": "/Dloft1991/GP-GamePoint.git/static/js/2.d5d24eaa.chunk.js.map",
+    "index.html": "/Dloft1991/GP-GamePoint.git/index.html",
+    "precache-manifest.a272b905ce9f7c69b436d5b3c6f51026.js": "/Dloft1991/GP-GamePoint.git/precache-manifest.a272b905ce9f7c69b436d5b3c6f51026.js",
+    "service-worker.js": "/Dloft1991/GP-GamePoint.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Dloft1991/GP-GamePoint.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d5d24eaa.chunk.js.LICENSE.txt": "/Dloft1991/GP-GamePoint.git/static/js/2.d5d24eaa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Dloft1991/GP-GamePoint.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b172358.js",
+    "static/js/2.d5d24eaa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d7888df9.chunk.js"
+  ]
+}

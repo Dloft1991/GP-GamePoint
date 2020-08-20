@@ -1,0 +1,24 @@
+.Account {
+    margin-top: 5%;
+}
+.loginTitle {
+    text-align: center;
+    font-family: 'Literata', serif;
+    color: black;
+}
+input {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  font-family: 'Literata', serif;
+  border-style: none;
+}
+button {
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  font-family: 'Literata', serif;
+  border-style: none;
+}

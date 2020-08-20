@@ -6,18 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div class="row">
-          <div class="col-sm-6">
           <img src={logo} className="App-logo" alt="logo" />
-          </div>
-          <div class="col-sm-6">
-          <ul>
-          <li>About</li>
-          <li>Contact</li>
-          <li>login/Sign up</li>
-        </ul>
-          </div>
-        </div>
+          <h1 class="title">
+            Game Point
+          </h1>
       </header>
     </div>
   );

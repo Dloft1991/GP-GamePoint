@@ -4,8 +4,16 @@
 
 .App-logo {
   height: 40vmin;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   border-radius: 50%;
   pointer-events: none;
+  font-family: 'Literata', serif;
+}
+.title {
+  font-family: 'Literata', serif;
+  text-align: center;
 }
 li {
  list-style: none;

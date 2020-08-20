@@ -1,0 +1,20 @@
+.CreateAccount {
+    background-image: url("./GP\ backgorund.JPG");
+    padding: 10%;
+    margin-top: 5%;
+}
+input {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-family: 'Literata', serif;
+    border-style: none;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .createTitle {
+    text-align: center;
+    font-family: 'Literata', serif;
+    color: white;
+  }
